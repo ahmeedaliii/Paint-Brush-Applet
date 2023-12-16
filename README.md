@@ -18,7 +18,7 @@ Specifications
   6. Filled Checkbox: If checked, it lets the Rectangle or Oval shapes that will be drawn after to be filled with the pre-selected color. If not check, it lets the shapes to be drawn as       outlines only.
 
   7. Undo Button: It lets the user undo the previous action(s)
-##To Run
+## To Run
 1. Download PaintBrush.java and PaintBrush.html
 2. Compile using javac PaintBrush.java
 3. Run using appletviewer PaintBrush.html
